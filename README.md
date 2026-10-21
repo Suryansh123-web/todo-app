@@ -1,2 +1,2 @@
 # todo-app
-task 3
+Hey there this is the crazy franky todo app youll love using it
